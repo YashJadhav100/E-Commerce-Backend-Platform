@@ -119,26 +119,22 @@ cd ecommerce-transaction-analytics
 python -m venv venv
 venv\Scripts\activate
 ```
-
----
-
 ### 3️⃣ Install dependencies
 
 ```bash
 pip install -r requirements.txt
 ```
-
----
-
 ### 4️⃣ Run the Streamlit app
 
 ```bash
 python -m streamlit run dashboard/app.py
 ```
 
----
+### 5️⃣ Open in your browser
 
-### 5️⃣ Open in browser
+```bash
+Once the Streamlit server starts, open the application in your browser:
+```
 
 ## 📈 Outputs & Data
 
