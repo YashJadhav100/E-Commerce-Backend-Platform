@@ -140,10 +140,6 @@ python -m streamlit run dashboard/app.py
 
 ### 5️⃣ Open in browser
 
-```
-http://localhost:8501
-```
-
 ## 📈 Outputs & Data
 
 * The `outputs/` folder contains **pre-computed analytics results**
@@ -174,4 +170,5 @@ It reflects how analytics teams **turn data into decisions**, not just charts.
 **Yash Jadhav**
 Graduate Student, Computer Science
 Syracuse University
+
 
